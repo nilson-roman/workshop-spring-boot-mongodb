@@ -7,6 +7,5 @@ import com.educandoweb.course.domain.User;
 
 @Repository
 public interface UserRepository extends MongoRepository<User, String>{
-
 	
 }
